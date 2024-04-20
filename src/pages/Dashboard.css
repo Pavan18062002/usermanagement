@@ -1,0 +1,31 @@
+.dashboard-container {
+    margin: 0 auto; 
+    width: 70%; 
+    padding: 20px; 
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+
+.dashboard-container {
+    text-align: center;
+  }
+  
+  .add-user-button {
+    margin-top: 20px;
+  }
+  
+  .add {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .add:hover {
+    background-color: #0e5b1e;
+  }
+  

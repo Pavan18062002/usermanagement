@@ -1,0 +1,12 @@
+/* LoadingIndicator.css */
+.loading-indicator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .loading-text {
+    margin-left: 10px;
+  }
+  

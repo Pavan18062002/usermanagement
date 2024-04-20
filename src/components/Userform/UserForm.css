@@ -1,0 +1,48 @@
+/* UserForm.css */
+.user-form-container {
+    margin-top: 20px;
+  }
+  
+  .user-form-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .user-form-container form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .user-form-container .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .user-form-container input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .user-form-container .error-message {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 5px;
+  }
+  
+  .user-form-container button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #488fbe;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .user-form-container button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
